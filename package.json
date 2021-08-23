@@ -1,0 +1,9 @@
+{
+  "name": "mern_ecommerce",
+  "version": "1.0.0",
+  "description": "restaurant application using mern",
+  "main": "server.js",
+  "author": "Vinay Maheshwari",
+  "license": "MIT",
+  "dependencies": {}
+}
